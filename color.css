@@ -1,0 +1,24 @@
+body{
+				background-color: #7C6662;
+				}
+	h1,h2,p {
+				font-family:Georgia, serif;
+			   }
+	  h3{
+				background-color:rgb(222,187,154);
+			}
+	  h1{
+				background-color:hsla(330, 6%, 44%, 1);
+			}
+		p{
+				background-color:rgb(222,187,154);
+			}
+		ul{
+				background-color:rgb(222,187,154);
+			}
+			
+		body{ style=opacity:0.3;position:absolute;center;width:1100px;height:220px;background-color:tan;}
+
+			<div style="font-family:verdana;padding:20px;border-radius:10px;border:10px solid #271C1F;"></div>
+
+			
