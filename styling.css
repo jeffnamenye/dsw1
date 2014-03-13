@@ -1,9 +1,19 @@
 body{
 				background-color: #7C6662;
 				}
-		h1,h2,p {
-				font-family:Georgia, serif;
+			
+			h1{
+				text-align:center;
+				text-transform:uppercase;
+				letter-spacing:2px;
+				text-shadow: 2px 2px 2px #FF0000;
+				font-family: 'Finger Paint', cursive;
+				}
+		h2,p{
+				font: italic bold medium normal Gerogia; 
+				text-indent:50px;
 			   }
+		
 	  	h3{
 				background-color:rgb(222,187,154);
 			}
@@ -16,5 +26,9 @@ body{
 		ul{
 				background-color:rgb(222,187,154);
 			}
-			
+			a:link {color:#19001D;}    /**** unvisited ****/
+			a:visited {color:#98201F;} /**** visited ****/
+			a:hover {color:#B3A6B3;}   /**** mouse over ****/
+			a:active {color:#9A99A0;}  /**** selected ****/
+
 		
