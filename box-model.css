@@ -30,7 +30,7 @@ body{
 		p{
 				background-color:rgb(222,187,154);
 				width:1000px;
-				padding:20px;
+				padding:30px;
 				border:5px solid gray;
 				border-radius:15px;
 				margin:5px;
@@ -40,7 +40,7 @@ body{
 		ul{
 				background-color:rgb(222,187,154);
 				width:1000px;
-				padding:20px;
+				padding:30px;
 				border:5px solid gray;
 				border-radius:15px;
 				margin:0px;
@@ -52,4 +52,10 @@ body{
 			a:active {color:#9A99A0;}  /**** selected ****/
 			li{
 			display:inline;
+			}
+			
+			#content {
+  			width: 1000px ;
+  			margin-left: auto ;
+  			margin-right: auto ;
 			}
