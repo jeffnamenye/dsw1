@@ -4,7 +4,7 @@ body{
 			
 			h1{
 				text-align:center; text-transform:uppercase; letter-spacing:2px;
-				text-shadow: 2px 2px 2px #FF0000; font-family: 'Finger Paint', cursive;
+				text-shadow: 2px 2px 2px #FF0000; font-family: 'Finger Paint', cursive;font-size:1.000em;
 				width:1000px; padding:10px; border:5px solid gray; border-radius:15px;
 				margin:0px; box-shadow: 10px 10px 5px #888888;
 					} 
@@ -12,7 +12,7 @@ body{
 				background-color:hsla(330, 6%, 44%, 1);
 			}
 		h2,p{	
-				text-align:left; font: italic bold medium normal Gerogia; text-indent:50px;
+				text-align:left; font: italic bold medium normal Gerogia;font-size: 1.000em; text-indent:50px;
 			   }
 		
 	  	h3{
@@ -43,7 +43,7 @@ body{
 				border:5px solid gray;
 				border-radius:15px;
 				margin:0px;
-				
+				font-size: 1.000em;
   					}
 		
 			
