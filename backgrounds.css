@@ -1,0 +1,72 @@
+
+body{
+				background-color:rgb(222,187,154);
+				}
+
+			body{ 
+				 background-image:url("../img/anchor.gif");
+				 background-repeat:repeat;
+                 background-attachment:fixed;
+                 background-position:center;}
+			h1{
+				text-align:center; text-transform:uppercase; letter-spacing:2px;
+				text-shadow: 2px 2px 2px #FF0000; font-family: 'Finger Paint', cursive;font-size:2.000em;
+				width:1000px; padding:10px; border:5px solid gray; border-radius:15px;
+				margin:0px; box-shadow: 10px 10px 5px #888888;
+					} 
+			h1{
+				background-color:hsla(330, 6%, 44%, 1);
+			}
+		h2,p{	
+				text-align:left; font: italic bold medium normal Gerogia;font-size: 1.000em; text-indent:50px;
+			   }
+		
+	  	h3{
+				background-color:rgb(222,187,154);
+			}
+		p{
+				background-color:rgb(222,187,154);
+				width:100%;
+				padding:5%;
+				border:5px solid gray;
+				border-radius:2%;
+				margin:1%;
+				float: right;
+  				width: 40%;
+  				padding:.5%;
+  				margin:0%;
+  				height:10%;
+  				background-color:rgb(222,187,154);
+ 				
+				}
+				
+				ul{clear: both;}
+				
+		ul{
+				background-color:rgb(222,187,154);
+				width:100%;
+				padding:30px;
+				border:5px solid gray;
+				border-radius:15px;
+				margin:0px;
+				font-size: 1.000em;
+  					}
+		
+			
+			a:link {color:#19001D;}    /**** unvisited ****/
+			a:visited {color:#98201F;} /**** visited ****/
+			a:hover {color:#B3A6B3;}   /**** mouse over ****/
+			a:active {color:#9A99A0;}  /**** selected ****/
+			li{
+			display:inline;
+			}
+			
+			#content {
+  			width: 0% ;
+  			margin-left: auto ;
+  			margin-right: auto ;
+			}
+		div.wrapper {
+			margin-left : 10%;
+			margin-right : 10%;
+			}
