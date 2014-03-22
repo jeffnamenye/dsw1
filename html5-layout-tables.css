@@ -1,0 +1,116 @@
+body{
+				background-color:rgb(222,187,154);
+				}
+
+			body{ 
+				 background-image: url("img/anchors.gif");
+				 background-repeat:repeat;
+                 background-attachment:fixed;
+                 background-position:center;
+                 }
+			h1{
+				text-align:center; text-transform:uppercase; letter-spacing:2px;
+				text-shadow: 2px 2px 2px #FF0000; font-family: 'Finger Paint', cursive;font-size:2.000em;
+				width:100%; padding:5%; border:5px solid gray; border-radius:5px;
+				margin:0px; box-shadow: 10px 10px 5px #888888;
+					} 
+			h1{
+				background-color:hsla(330, 6%, 44%, 1);
+			}
+		h2,p{	
+				text-align:left; font: italic bold medium normal Gerogia;font-size: 1.000em; text-indent:50px;
+			   }
+		
+	  	h3{
+				background-color:rgb(222,187,154);
+			}
+		section{
+				background-color:rgb(222,187,154);
+				width:100%;
+				padding:5%;
+				border:5px solid gray;
+				border-radius:2%;
+				margin:1%;
+				float: right;
+  				width: 40%;
+  				padding:.5%;
+  				margin:0%;
+  				height:10%;
+  				background-color:rgb(222,187,154);
+
+				}
+				
+				ul{clear: both;}
+				
+		ul{
+				background-color:rgb(222,187,154);
+				width:100%;
+				padding:30px;
+				border:5px solid gray;
+				border-radius:15px;
+				margin:0px;
+				font-size: 1.000em;
+  				background: rgb(240,183,161); /* Old browsers */
+background: -moz-linear-gradient(left,  rgba(240,183,161,1) 0%, rgba(140,51,16,1) 50%, rgba(117,34,1,1) 51%, rgba(191,110,78,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(240,183,161,1)), color-stop(50%,rgba(140,51,16,1)), color-stop(51%,rgba(117,34,1,1)), color-stop(100%,rgba(191,110,78,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(left,  rgba(240,183,161,1) 0%,rgba(140,51,16,1) 50%,rgba(117,34,1,1) 51%,rgba(191,110,78,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(left,  rgba(240,183,161,1) 0%,rgba(140,51,16,1) 50%,rgba(117,34,1,1) 51%,rgba(191,110,78,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(left,  rgba(240,183,161,1) 0%,rgba(140,51,16,1) 50%,rgba(117,34,1,1) 51%,rgba(191,110,78,1) 100%); /* IE10+ */
+background: linear-gradient(to right,  rgba(240,183,161,1) 0%,rgba(140,51,16,1) 50%,rgba(117,34,1,1) 51%,rgba(191,110,78,1) 100%); /* W3C */
+
+  					}
+		aside{
+				float: right;
+				}
+			
+			a:link {color:#19001D;}    /**** unvisited ****/
+			a:visited {color:#98201F;} /**** visited ****/
+			a:hover {color:#B3A6B3;}   /**** mouse over ****/
+			a:active {color:#9A99A0;}  /**** selected ****/
+			
+			
+			
+			
+		table {
+		font-family: italic bold medium normal Gerogia;
+		font-size:20px;
+		color:#333333;
+		border-width: 2px;
+		border-color: rgb(222,187,154);
+		border-collapse: collapse;
+		}
+		 th {
+		background:#b5cfd2 url('cell-blue.jpg');
+		border-width: 1px;
+		padding: 8px;
+		border-style: solid;
+		border-color: rgb(222,187,154);
+		}
+		 td {
+		background:#dcddc0 url('cell-grey.jpg');
+		border-width: 1px;
+		padding: 8px;
+		border-style: solid;
+		border-color: rgb(222,187,154);
+		}
+
+
+			li{
+			display:inline;
+			}
+			
+			#content {
+  			width: 0% ;
+  			margin-left: auto ;
+  			margin-right: auto ;
+			}
+		div.wrapper {
+			margin-left : 10%;
+			margin-right : 10%;
+			}
+			
+				a:link {color:#19001D;}    /**** unvisited ****/
+				a:visited {color:#98201F;} /**** visited ****/
+				a:hover {color:#B3A6B3;}   /**** mouse over ****/
+				a:active {color:#9A99A0;}  /**** selected ****/
+			
