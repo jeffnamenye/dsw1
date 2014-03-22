@@ -11,9 +11,10 @@ body{
 			h1{
 				text-align:center; text-transform:uppercase; letter-spacing:2px;
 				text-shadow: 2px 2px 2px #FF0000; font-family: 'Finger Paint', cursive;font-size:2.000em;
-				width:100%; padding:5%; border:5px solid gray; border-radius:5px;
+				width:1000px; padding:10px; border:5px solid gray; border-radius:15px;
 				margin:0px; box-shadow: 10px 10px 5px #888888;
 					} 
+					
 			h1{
 				background-color:hsla(330, 6%, 44%, 1);
 			}
@@ -24,6 +25,20 @@ body{
 	  	h3{
 				background-color:rgb(222,187,154);
 			}
+			p{
+				background-color:rgb(222,187,154);
+				width:100%;
+				padding:5%;
+				border:5px solid gray;
+				border-radius:2%;
+				margin:1%;
+				float: right;
+  				width: 40%;
+  				padding:.5%;
+  				margin:0%;
+  				height:10%;
+
+				}
 		section{
 				background-color:rgb(222,187,154);
 				width:100%;
