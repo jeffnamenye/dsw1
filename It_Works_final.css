@@ -1,0 +1,164 @@
+		/****this is my header*****/
+		
+			a:link {color:#FFC912;}    /**** unvisited ****/
+			a:visited {color:#FDF5D0;} /**** visited ****/
+			a:hover {color:#F8E589;}   /**** mouse over ****/
+			a:active {color:#BE1E2D;}  /**** selected ****/
+			
+			
+		
+		body{ 
+				 background-image: url("imgs/spectrum.png");
+				 background-repeat:repeat;
+                 background-attachment:fixed;
+                 background-position:center;
+                 
+                 }
+		h3{ 
+			color:#FFC912;font-family: 'Sofadi One', cursive;
+			
+			}
+			figcaption{
+				color:#FFC912;
+			}
+			
+		h1{
+				color:#1A5C00; background-color:#6BC59A;text-align:left; text-align:center; 
+				text-transform:uppercase; letter-spacing:2px;
+				text-shadow: 3px 3px 0px #0D0E0D; font-family: Gerogia, italic;font-size:2.5000em;
+				width:1000px; padding:20px; border:5px solid gray; border-radius:15px;
+				margin:0px; box-shadow: 3px 3px 3px #888888;
+					} 
+			p{
+				color:#1A5C00;color:#1A5C00; background-color:#6BC59A;
+				font-family: Gerogia, italic;font-size:1.000em;
+				width:1000px; padding:20px; border:5px solid gray; border-radius:15px;
+				margin:40px 0px 0px 0px; box-shadow: 3px 3px 3px #888888;
+			
+			}	
+			img {
+					float:left;
+					width:110px;
+					height:90px;
+					margin:5px;
+					}
+			.product{
+					clear: both;
+					}		
+				/***my header***/	
+			.header{
+			float:left;
+			text-align:left; font: italic bold medium normal Gerogia;
+			font-size: 1.000em; text-indent:50px;
+				}
+			div.wrapper {
+			margin-left : 10em;
+			margin-right : 10em;
+			}
+			/***my article***/
+			.article{	
+				text-align:left; font: italic bold medium normal Gerogia;font-size: 1.000em; text-indent:50px;
+			  margin:40px 0px 0px 0px;
+			  float:left;
+			   }
+			   ul{clear:both;
+			   }
+			ul{
+				opacity:0.6;
+				width:90%;
+				padding:30px;
+				border:5px solid gray;
+				border-radius:15px;
+				margin:20px;
+				font-size: 1.000em;
+				box-shadow: 3px 3px 3px #888888;
+  				background: rgb(254,252,234); /* Old browsers */
+				background: -moz-linear-gradient(left,  rgba(254,252,234,1) 0%, rgba(241,218,54,1) 100%);
+				 /* FF3.6+ */
+				background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(254,252,234,1)), color-stop(100%,rgba(241,218,54,1))); /* Chrome,Safari4+ */
+				background: -webkit-linear-gradient(left,  rgba(254,252,234,1) 0%,rgba(241,218,54,1) 100%); /* Chrome10+,Safari5.1+ */
+				background: -o-linear-gradient(left,  rgba(254,252,234,1) 0%,rgba(241,218,54,1) 100%); /* Opera 11.10+ */
+				background: -ms-linear-gradient(left,  rgba(254,252,234,1) 0%,rgba(241,218,54,1) 100%); /* IE10+ */
+				background: linear-gradient(to right,  rgba(254,252,234,1) 0%,rgba(241,218,54,1) 100%); /* W3C */
+				
+				}
+			
+			
+			
+		table {
+		font-family: italic bold medium normal Gerogia;
+		font-size:20px;
+		color:#333333;
+		border-width: 2px;
+		border-color: rgb(222,187,154);
+		border-collapse: collapse;
+		}
+		 th {
+		background:#b5cfd2 ;
+		border-width: 1px;
+		padding: 8px;
+		border-style: solid;
+		border-color: rgb(222,187,154);
+		}
+		 td {
+		background:#dcddc0 ;
+		border-width: 1px;
+		padding: 8px;
+		border-style: solid;
+		border-color: rgb(222,187,154);
+		}
+			
+		.thumbnail {
+				float:left;
+				width:110px;
+				height:90px;
+				margin:5px;	
+			}
+		
+		
+		
+		
+		
+		form-wrap,form{
+		clear:both;
+		}
+			
+		
+			form{
+			background-color:#FDF5D0;
+			border:3px solid gray;
+			margin:20px auto;
+			padding:20px;
+			}
+			
+			labels{
+			display:block;
+			margin:0 0 0 20px;
+			padding:2px;
+			font-size:18px;
+			color:gray
+			}
+			input{
+				font-size:12px;
+				color:gray
+				margin:0 0 0 20px;
+			}
+			textarea{
+			border:3px solid gray;
+			margin:0px auto;
+			padding:20px;
+			}
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
