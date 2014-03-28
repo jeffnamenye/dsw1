@@ -63,6 +63,7 @@
 			   }
 			   ul{clear:both;
 			   }
+			   /***my list***/
 			ul{
 				opacity:0.6;
 				width:90%;
@@ -84,7 +85,7 @@
 				}
 			
 			
-			
+			/***my table***/
 		table {
 		font-family: italic bold medium normal Gerogia;
 		font-size:20px;
@@ -141,7 +142,7 @@
 			input{
 				font-size:12px;
 				color:gray
-				margin:0 0 0 20px;
+				
 			}
 			textarea{
 			border:3px solid gray;
